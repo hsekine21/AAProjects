@@ -1,5 +1,5 @@
 // Yay it's a new attendance sheet!!!
-
+//So exciting that I can add stuff to this! Glad to be a collaborator.
 // Thingies that are needed 
 
 var tutoringDragonsEmail = 'tutoringdragons@ssis.edu.vn'
